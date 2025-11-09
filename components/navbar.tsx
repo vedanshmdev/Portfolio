@@ -67,7 +67,7 @@ const Navbar = () => {
             <div className="flex items-center space-x-3">
               <ModeToggle />
               <Button asChild>
-                <Link href="https://drive.google.com/file/d/1UZVaa26oIT8iclLMckM5JeLWWEqtbKZw/view?usp=sharing" target="_blank">
+                <Link href="https://drive.google.com/file/d/1htanDTW0CVfjpPMkImCoI_SdVk6mwR-F/view" target="_blank">
                   View CV
                 </Link>
               </Button>

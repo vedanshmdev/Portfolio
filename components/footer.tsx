@@ -19,7 +19,7 @@ const Footer = () => {
           <div className="flex flex-col items-center md:items-end">
             <div className="flex space-x-4 mb-4">
               <Link
-                href="https://github.com/vedansh2001"
+                href="https://github.com/vedanshmdev"
                 target="_blank"
                 className="text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-white transition-colors"
               >
@@ -27,7 +27,7 @@ const Footer = () => {
                 <span className="sr-only">GitHub</span>
               </Link>
               <Link
-                href="https://www.linkedin.com/in/vedansh2001/"
+                href="https://www.linkedin.com/in/vedanshmdev/"
                 target="_blank"
                 className="text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-white transition-colors"
               >
@@ -35,7 +35,7 @@ const Footer = () => {
                 <span className="sr-only">LinkedIn</span>
               </Link>
               <Link
-                href="https://twitter.com/vedanshm2001"
+                href="https://twitter.com/vedanshmdev"
                 target="_blank"
                 className="text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-white transition-colors"
               >
