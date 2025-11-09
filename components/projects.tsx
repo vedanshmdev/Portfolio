@@ -16,7 +16,7 @@ const projectsData = [
     image: "/githubfolio_homepage.png",
     tags: ["TypeScript", "Next.js", "Postgress", "Prisma", "Next-auth", "Gemini", "AWS EC2"],
     demoUrl: "https://githubfolio.in",
-    githubUrl: "https://github.com/vedansh2001/githubfolio",
+    githubUrl: "https://github.com/vedanshmdev/githubfolio",
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const projectsData = [
     image: "/ecommerce_homepage-1.png",
     tags: ["JavaScript", "React", "Tailwind CSS", "Cloudinary", "Vercel"],
     demoUrl: "https://furnistore-ecommerce.vercel.app/",
-    githubUrl: "https://github.com/vedansh2001/ecommerce",
+    githubUrl: "https://github.com/vedanshmdev/ecommerce",
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const projectsData = [
     image: "/socialweave.png",
     tags: ["JavaScript", "React", "Node.js", "MongoDB", "Coudinary", "Render"],
     demoUrl: "https://thread-app-initiald-deploy-version.onrender.com/",
-    githubUrl: "https://github.com/vedansh2001/thread-app",
+    githubUrl: "https://github.com/vedanshmdev/thread-app",
   },
   {
     id: 4,
@@ -43,7 +43,7 @@ const projectsData = [
     image: "/Often.png",
     tags: ["JavaScript", "Next.js", "Tailwind CSS", "Zustand", "Remotion"],
     demoUrl: "https://oftendev.vercel.app/",
-    githubUrl: "https://github.com/vedansh2001/Often",
+    githubUrl: "https://github.com/vedanshmdev/Often",
   },{
     id: 5,
     title: "Unboxing Game",
@@ -51,7 +51,7 @@ const projectsData = [
     image: "/Vedansh_spinning.png",
     tags: ["JavaScript", "React", "Node.js", "Tailwind CSS", "AWS Amplify"],
     demoUrl: "https://main.d3rorkfeyy5adx.amplifyapp.com/",
-    githubUrl: "https://github.com/vedansh2001/unboxing",
+    githubUrl: "https://github.com/vedanshmdev/unboxing",
   },
   {
     id: 6,
@@ -60,7 +60,7 @@ const projectsData = [
     image: "/ShoshinTech.png",
     tags: ["JavaScript", "React", "Tailwind CSS"],
     demoUrl: "https://shoshin-tch.vercel.app/",
-    githubUrl: "http://github.com/vedansh2001/Shoshin-Tech",
+    githubUrl: "http://github.com/vedanshmdev/Shoshin-Tech",
   },
   {
     id: 7,
@@ -69,7 +69,7 @@ const projectsData = [
     image: "/URL_Shortner1.png",
     tags: ["JavaScript", "React", "Node.js", "MongoDB"],
     demoUrl: "https://urlshortners.vercel.app/",
-    githubUrl: "https://github.com/vedansh2001/URL_Shortner",
+    githubUrl: "https://github.com/vedanshmdev/URL_Shortner",
   },
   {
     id: 8,
@@ -78,7 +78,7 @@ const projectsData = [
     image: "/Guestara.png",
     tags: ["JavaScript", "React", "Node.js", "MongoDB"],
     demoUrl: "https://guestara-eight.vercel.app/",
-    githubUrl: "https://github.com/vedansh2001/Guestara",
+    githubUrl: "https://github.com/vedanshmdev/Guestara",
   },
 ]
 
